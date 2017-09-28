@@ -1,4 +1,4 @@
-# IREBI - Bibliographic Searcher - Back #
+# IREBI - Bibliographic Searcher
 
 
 Online version available: http://sgb.ucuenca.edu.ec/buscador
